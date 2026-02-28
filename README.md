@@ -44,7 +44,7 @@ My work combines technical depth with structured problem solving and system desi
 🔹 [NovaBank](https://github.com/alec-cov/novabank)  
 High-fidelity fintech prototype built with React Native and Expo.
 
-🔹 [Distributed P2P Messaging System](https://github.com/alec-cov/wazzapp-p2p-chat) 
+🔹 [Distributed P2P Messaging System](https://github.com/alec-cov/wazzapp-p2p-chat)  
 Real-time client–server messaging system built with Python sockets and concurrency.
 
 ---
